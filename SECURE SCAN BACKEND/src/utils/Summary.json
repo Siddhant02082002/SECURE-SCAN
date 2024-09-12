@@ -1,0 +1,104 @@
+[
+  {
+    "fileName": "me.json",
+    "Informational": {
+      "count": 1,
+      "types": [
+        "Storable and Cacheable Content"
+      ],
+      "apis": []
+    },
+    "Low": {
+      "count": 1,
+      "types": [
+        "Strict-Transport-Security Header Not Set"
+      ],
+      "apis": []
+    },
+    "Medium": {
+      "count": 6,
+      "types": [
+        "CORS Misconfiguration",
+        "CSP: Wildcard Directive",
+        "Cross-Domain Misconfiguration",
+        "Proxy Disclosure",
+        "Permissions Policy Header Not Set",
+        "Server Leaks Information via \"X-Powered-By\" HTTP Response Header Field(s)"
+      ],
+      "apis": []
+    },
+    "High": {
+      "count": 0,
+      "types": [],
+      "apis": []
+    }
+  },
+  {
+    "fileName": "reset-password.json",
+    "Informational": {
+      "count": 1,
+      "types": [
+        "Storable and Cacheable Content"
+      ],
+      "apis": []
+    },
+    "Low": {
+      "count": 1,
+      "types": [
+        "Strict-Transport-Security Header Not Set"
+      ],
+      "apis": []
+    },
+    "Medium": {
+      "count": 6,
+      "types": [
+        "CORS Misconfiguration",
+        "CSP: Wildcard Directive",
+        "Cross-Domain Misconfiguration",
+        "Proxy Disclosure",
+        "Permissions Policy Header Not Set",
+        "Server Leaks Information via \"X-Powered-By\" HTTP Response Header Field(s)"
+      ],
+      "apis": []
+    },
+    "High": {
+      "count": 0,
+      "types": [],
+      "apis": []
+    }
+  },
+  {
+    "fileName": "upload.json",
+    "Informational": {
+      "count": 1,
+      "types": [
+        "Storable and Cacheable Content"
+      ],
+      "apis": []
+    },
+    "Low": {
+      "count": 1,
+      "types": [
+        "Strict-Transport-Security Header Not Set"
+      ],
+      "apis": []
+    },
+    "Medium": {
+      "count": 6,
+      "types": [
+        "CORS Misconfiguration",
+        "CSP: Wildcard Directive",
+        "Cross-Domain Misconfiguration",
+        "Proxy Disclosure",
+        "Permissions Policy Header Not Set",
+        "Server Leaks Information via \"X-Powered-By\" HTTP Response Header Field(s)"
+      ],
+      "apis": []
+    },
+    "High": {
+      "count": 0,
+      "types": [],
+      "apis": []
+    }
+  }
+]
